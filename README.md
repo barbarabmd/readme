@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="" alt="Logo do Projeto" width="200"/>
-</p>
-
+div align="center"
+img src="" width="0px" /
+/div
 
 # Projeto SINDISEI
 
