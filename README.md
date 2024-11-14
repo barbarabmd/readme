@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="c:\Users\barba\Downloads\Logo-Sindsei.png" alt="Logo SINDISEI" width="200"/>
+  <img src="![Logo-Sindsei](https://github.com/user-attachments/assets/b65555cb-ff09-40e0-b0b8-48913cd92269)
+" alt="Logo do Projeto" width="200"/>
 </p>
 
 
