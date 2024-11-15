@@ -28,25 +28,49 @@ Este projeto utiliza as seguintes tecnologias:
 
 Para utilizar o projeto, verifique se possui as seguintes ferramentas:
 
-- **Python**
+- **N8N**: Uma ferramenta de automação de fluxos de trabalho. 
+Certifique-se de que está corretamente configurada em sua máquina.
 
 ### Etapas 
 
+1. Clone o repositório em sua máquina:
 
 ```bash 
+git clone https://github.com/seu_usuario/seu_repositorio.git
+```
 
-npm install 
+2. Acesse o diretório do projeto:
 
-``` 
+```bash
+cd seu_repositorio
+```
+
+3. Instale os requisitos necessários:
+
+```bash
+npm install
+```
+
+4. Inicie o projeto:
+
+```bash
+npm start
+```
+
+6. Acesse a interface do projeto.
 
 
 ## Instrução de uso 
 
+1. Configuração Inicial: Após iniciar o projeto, acesse a interface e faça as configurações necessárias, como adicionar suas contas de e-mail ou integrar outras ferramentas ao N8N.
 
-```bash 
+2. Automação de fluxo de e-mails: Para iniciar a automação, ative o fluxo de trabalho principal no N8N. Isso fará com que o sistema leia e classifique os e-mails automaticamente.
 
-``` 
+3. Visualização de Dados: Acesse o painel de controle para visualizar informações sobre os e-mails classificados e as reuniões agendadas.
 
+4. Interação com o Sistema: Utilize os comandos no terminal ou painel para pausar, retomar ou encerrar a execução do sistema.
+
+Essas instruções permitirão que você configure e utilize a ferramenta de maneira adequada.
 
 ## Licença 
 
@@ -73,6 +97,3 @@ Orientadores:
 - Osman Bras
 - Pedro
 - Leon
-
-
- 
