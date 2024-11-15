@@ -59,6 +59,8 @@ npm start
 
 6. Acesse a interface do projeto.
 
+Esse processo de instalação te ajudará a instalar e executar o projeto adequadamente.
+
 
 ## Instrução de uso 
 
